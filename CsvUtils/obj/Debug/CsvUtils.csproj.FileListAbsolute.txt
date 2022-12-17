@@ -1,0 +1,6 @@
+C:\Users\vivil\source\repos\CsvUtils\CsvUtils\bin\Debug\CsvUtils.dll
+C:\Users\vivil\source\repos\CsvUtils\CsvUtils\bin\Debug\CsvUtils.pdb
+C:\Users\vivil\source\repos\CsvUtils\CsvUtils\obj\Debug\CsvUtils.csproj.AssemblyReference.cache
+C:\Users\vivil\source\repos\CsvUtils\CsvUtils\obj\Debug\CsvUtils.csproj.CoreCompileInputs.cache
+C:\Users\vivil\source\repos\CsvUtils\CsvUtils\obj\Debug\CsvUtils.dll
+C:\Users\vivil\source\repos\CsvUtils\CsvUtils\obj\Debug\CsvUtils.pdb
