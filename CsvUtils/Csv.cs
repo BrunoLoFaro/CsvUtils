@@ -22,9 +22,13 @@ namespace CsvUtils
                 var streamReader = new StreamReader(fileStream, Encoding.UTF8, true, BufferSize);
                 string linea;
                 if ((linea = streamReader.ReadLine()) != null)//leo la primer linea con los headers
+                {
+                    if(!linea.Equals(""))
                     headers = linea.Split(';');
+                }
                 while ((linea = streamReader.ReadLine()) != null)//leo el resto
                 {
+                    if(!linea.Equals(""))
                     filas.Add(new Fila(linea.Split(';')));//parseo los registros de la linea
                 }
             }
